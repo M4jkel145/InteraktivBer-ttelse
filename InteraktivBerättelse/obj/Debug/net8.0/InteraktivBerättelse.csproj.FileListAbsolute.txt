@@ -1,0 +1,14 @@
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.AssemblyInfoInputs.cache
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.AssemblyInfo.cs
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.csproj.CoreCompileInputs.cache
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.exe
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.deps.json
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.runtimeconfig.json
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.dll
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.pdb
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.dll
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\refint\InteraktivBerättelse.dll
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.pdb
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.genruntimeconfig.cache
+c:\Users\elev\Documents\prog\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\ref\InteraktivBerättelse.dll
